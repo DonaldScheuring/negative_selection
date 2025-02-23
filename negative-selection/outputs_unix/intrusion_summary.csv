@@ -1,0 +1,7 @@
+dataset,testprefix,r,auc
+snd-cert,snd-cert.1,4,0.9800
+snd-cert,snd-cert.2,4,0.9552
+snd-cert,snd-cert.3,4,0.9658
+snd-unm,snd-unm.1,4,0.8800
+snd-unm,snd-unm.2,4,0.8352
+snd-unm,snd-unm.3,4,0.8475
