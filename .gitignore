@@ -1,0 +1,14 @@
+.DS_Store
+.*.swp
+.*.swo
+.*.swn
+*~
+*.bak
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+
+
